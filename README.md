@@ -323,7 +323,6 @@ __Chú ý__: Đăng nhập với username `phuong` và password `321` để sử
 Mọi thắc mắc, báo lỗi, đề xuất tính năng cho ứng dụng xin hay liên hệ qua địa chỉ email:
 
 - Ngô Văn Phương - phuong.ngo0320@hcmut.edu.vn
-- Kiều Đặng Quốc Tuấn - tuan.kieudangquoc03@hcmut.edu.vn
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
